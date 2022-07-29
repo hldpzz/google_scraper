@@ -249,3 +249,1151 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659056385583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659056385583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659056385584	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659056385593	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659056385593	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659056385594	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659056546183	Marionette	INFO	Stopped listening on port 60490
+1659056556366	geckodriver	INFO	Listening on 127.0.0.1:61309
+1659056556911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "61310" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVRn1JS"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659056562269	Marionette	INFO	Marionette enabled
+1659056562276	Marionette	INFO	Listening on port 61330
+WebDriver BiDi listening on ws://localhost:61310
+Read port: 61330
+1659056562924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVRn1JS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:61310/devtools/browser/0e62720a-1569-4bdf-8a0a-8f41754b344d
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659056602118	Marionette	INFO	Stopped listening on port 61330
+1659056613032	geckodriver	INFO	Listening on 127.0.0.1:61464
+1659056613554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "61465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile38bVYn"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659056614454	Marionette	INFO	Marionette enabled
+1659056614462	Marionette	INFO	Listening on port 61469
+WebDriver BiDi listening on ws://localhost:61465
+Read port: 61469
+1659056615009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile38bVYn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:61465/devtools/browser/5d9739d5-9726-45fa-84aa-df5ac277490a
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659056659219	geckodriver	INFO	Listening on 127.0.0.1:61590
+1659056659322	geckodriver	INFO	Listening on 127.0.0.1:61597
+1659056659513	geckodriver	INFO	Listening on 127.0.0.1:61604
+1659056660115	geckodriver	INFO	Listening on 127.0.0.1:61611
+1659056660280	geckodriver	INFO	Listening on 127.0.0.1:61618
+1659056660454	geckodriver	INFO	Listening on 127.0.0.1:61625
+1659056660601	geckodriver	INFO	Listening on 127.0.0.1:61633
+1659056660626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "61634" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepY5nc0"
+1659056660936	geckodriver	INFO	Listening on 127.0.0.1:61648
+1659056661066	geckodriver	INFO	Listening on 127.0.0.1:61655
+1659056661227	geckodriver	INFO	Listening on 127.0.0.1:61662
+1659056661412	geckodriver	INFO	Listening on 127.0.0.1:61669
+1659056661523	geckodriver	INFO	Listening on 127.0.0.1:61676
+1659056661672	geckodriver	INFO	Listening on 127.0.0.1:61683
+1659056661859	geckodriver	INFO	Listening on 127.0.0.1:61690
+1659056662017	geckodriver	INFO	Listening on 127.0.0.1:61697
+1659056662175	geckodriver	INFO	Listening on 127.0.0.1:61704
+1659056662716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "61705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8hnFmE"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659056663669	Marionette	INFO	Marionette enabled
+1659056663677	Marionette	INFO	Listening on port 61713
+WebDriver BiDi listening on ws://localhost:61705
+Read port: 61713
+1659056664904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8hnFmE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:61705/devtools/browser/c55586fa-4702-4cb3-8be9-1452b1ccecf2
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659056938641	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659056938644	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659056938645	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659056941821	Marionette	INFO	Stopped listening on port 61713
+1659056945484	geckodriver	INFO	Listening on 127.0.0.1:62241
+1659056945507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "62242" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiUwBmk"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659056946932	Marionette	INFO	Marionette enabled
+1659056946942	Marionette	INFO	Listening on port 62245
+WebDriver BiDi listening on ws://localhost:62242
+Read port: 62245
+1659056949301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiUwBmk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:62242/devtools/browser/0e8f0f15-146f-48be-a4f4-1085bc280816
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659057053855	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057053856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057053857	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057053857	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057053859	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057053859	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057053860	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659057142217	Marionette	INFO	Stopped listening on port 62245
+1659057143877	geckodriver	INFO	Listening on 127.0.0.1:62619
+1659057144357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "62620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSmbahs"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659057150609	Marionette	INFO	Marionette enabled
+1659057150618	Marionette	INFO	Listening on port 62630
+Read port: 62630
+WebDriver BiDi listening on ws://localhost:62620
+1659057151485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSmbahs/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:62620/devtools/browser/2fdfda0d-dc35-4c30-a98e-350ca4c9620a
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659057283351	Marionette	INFO	Stopped listening on port 62630
+1659057294759	geckodriver	INFO	Listening on 127.0.0.1:62939
+1659057294787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "62940" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledTjXqK"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659057296595	Marionette	INFO	Marionette enabled
+1659057296603	Marionette	INFO	Listening on port 62945
+WebDriver BiDi listening on ws://localhost:62940
+Read port: 62945
+1659057297667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledTjXqK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:62940/devtools/browser/dd03684d-a6b6-4b6f-8bd3-f5d37c38079a
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659057428106	Marionette	INFO	Stopped listening on port 62945
+1659057440242	geckodriver	INFO	Listening on 127.0.0.1:63230
+1659057440778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "63231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef8diID"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659057442296	Marionette	INFO	Marionette enabled
+1659057442306	Marionette	INFO	Listening on port 63235
+WebDriver BiDi listening on ws://localhost:63231
+Read port: 63235
+1659057443068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef8diID/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:63231/devtools/browser/bfbd50a9-9fd1-4772-ab70-9a813f4119fe
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659057476770	Marionette	INFO	Stopped listening on port 63235
+1659057479096	geckodriver	INFO	Listening on 127.0.0.1:63345
+1659057479799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "63346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH2N1jQ"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659057481259	Marionette	INFO	Marionette enabled
+1659057481269	Marionette	INFO	Listening on port 63350
+WebDriver BiDi listening on ws://localhost:63346
+Read port: 63350
+1659057481892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH2N1jQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:63346/devtools/browser/52f75491-0774-4cd4-8471-55d7a2252a44
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659057516640	Marionette	INFO	Stopped listening on port 63350
+1659057519833	geckodriver	INFO	Listening on 127.0.0.1:63474
+1659057520348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "63475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9b2s4I"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659057521487	Marionette	INFO	Marionette enabled
+1659057521494	Marionette	INFO	Listening on port 63483
+WebDriver BiDi listening on ws://localhost:63475
+Read port: 63483
+1659057522653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9b2s4I/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:63475/devtools/browser/4faecc1e-d337-4b88-a4b0-ffa66e96eebc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.a_EGDHmsfr0.O/ck=xjs.s.preap7EHqIw.L.F4.O/am=AkAVAF4AAAAAMAMUAAAAAAAAAAAGAAJPGQMAEAgR5CQAAAAACBIAAAAGACEABwJCAAAAAB8JFwAAfwAAA0u4AAAAAAAAAAACtgTBwA0SAQEAAAAAAAAACKuJCg/d=1/exm=cdos,cr,csi,d,hsm,jsa,sb/excm=FuQWyc,agCOD,zs9f9d/ed=1/dg=2/rs=ACT90oE2KXr0bvRu2gna2lpEcaokXCIj0g/ee=zhDmcb:EEDORb;rXjWyb:VWuaCc;uY49fb:COQbmf;EVNhjf:pw70Gc;g8nkx:U4MzKc;wQlYve:aLUfP;kbAm9d:MkHyGd;F9mqte:UoRcbe;sTsDMc:kHVSUb;oUlnpc:RagDlc;dtl0hd:lLQWFe;yGxLoc:FmAr0c;dIoSBb:ZgGg9b;pXdRYb:JKoKVe;wR5FRb:TtcOte;KpRAue:Tia57b;aZ61od:arTwJ;JXS8fb:Qj0suc;rQSrae:C6D5Fc;qavrXe:zQzcXe;UDrY1c:eps46d;nKl0s:xxrckd;w3bZCb:ZPGaIb;VGRfx:VFqbr;imqimf:jKGL2e;Np8Qkd:Dpx6qc;BjwMce:cXX2Wb;oGtAuc:sOXFj;NPKaK:PVlQOd;zxnPse:GkRiKb;daB6be:lMxGPd;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;jVtPve:wQ95P;R4IIIb:QWfeKf;BMxAGc:E5bFse;WDGyFe:jcVOxd;xbe2wc:wbTLEd;DpcR3d:zL72xf;tosKvd:ZCqP3;NSEoX:lazG7b;kCQyJ:ueyPK;oSUNyd:fTfGO;SJsSc:H1GVub;SMDL4c:fTfGO;zOsCQe:Ko78Df;WCEKNd:I46Hvd;LBgRLc:XVMNvd;LsNahb:ucGLNb;UyG7Kb:wQd0G;TxfV6d:YORN0b;GleZL:J1A7Od;qaS3gd:yiLg6e;aAJE9c:WHW6Ef;BgS6mb:fidj5d;z97YGf:oug9te;CxXAWb:YyRLvc;Pguwyb:Xm4ZCd;VN6jIc:ddQyuf;SLtqO:Kh1xYe;VxQ32b:k0XsBb;DULqB:RKfG5c;cFTWae:gT8qnd;gaub4:TN6bMe;hjRo6e:F62sG;whEZac:F4AmNb;qddgKe:x4FYXe;eBAeSb:Ck63tb;vfVwPd:OXTqFb;w9w86d:dt4g2b;lkq0A:Z0MWEf;KQzWid:mB4wNe;pNsl2d:j9Yuyc;eHDfl:ofjVkb;Nyt6ic:jn2sGd;SNUn3:x8cHvb;LEikZe:byfTOb,lsjVmc;io8t5d:sgY6Zb;j7137d:KG2eXe;Oj465e:KG2eXe;sP4Vbe:VwDzFe;kMFpHd:blwjVc;nAFL3:s39S4;iFQyKf:QIhFr/m=AtSb,B3sAYe,BVxbI,CgfbTd,DhPYme,EfJGEe,EkevXb,FIh4Fe,GU4Gab,GqeWuf,Hjq1Uc,KwKaLe,Mv8snb,OESk0e,OPuKec,QPRQHf,UFZhBc,Wq6lxf,ZchH0c,aa,async,cSX9Xe,dvl,foot,hmSYyb,kyn,lazG7b,mI3LFb,mu,nXizP,oSkgIf,pHXghd,sf,tIj4fb,vhJCnf,x02uwc,x1R84e,zHYHGb?xjs=s1, line 1087: Error: He
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.a_EGDHmsfr0.O/ck=xjs.s.preap7EHqIw.L.F4.O/am=AkAVAF4AAAAAMAMUAAAAAAAAAAAGAAJPGQMAEAgR5CQAAAAACBIAAAAGACEABwJCAAAAAB8JFwAAfwAAA0u4AAAAAAAAAAACtgTBwA0SAQEAAAAAAAAACKuJCg/d=1/exm=cdos,cr,csi,d,hsm,jsa,sb/excm=FuQWyc,agCOD,zs9f9d/ed=1/dg=2/rs=ACT90oE2KXr0bvRu2gna2lpEcaokXCIj0g/ee=zhDmcb:EEDORb;rXjWyb:VWuaCc;uY49fb:COQbmf;EVNhjf:pw70Gc;g8nkx:U4MzKc;wQlYve:aLUfP;kbAm9d:MkHyGd;F9mqte:UoRcbe;sTsDMc:kHVSUb;oUlnpc:RagDlc;dtl0hd:lLQWFe;yGxLoc:FmAr0c;dIoSBb:ZgGg9b;pXdRYb:JKoKVe;wR5FRb:TtcOte;KpRAue:Tia57b;aZ61od:arTwJ;JXS8fb:Qj0suc;rQSrae:C6D5Fc;qavrXe:zQzcXe;UDrY1c:eps46d;nKl0s:xxrckd;w3bZCb:ZPGaIb;VGRfx:VFqbr;imqimf:jKGL2e;Np8Qkd:Dpx6qc;BjwMce:cXX2Wb;oGtAuc:sOXFj;NPKaK:PVlQOd;zxnPse:GkRiKb;daB6be:lMxGPd;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;jVtPve:wQ95P;R4IIIb:QWfeKf;BMxAGc:E5bFse;WDGyFe:jcVOxd;xbe2wc:wbTLEd;DpcR3d:zL72xf;tosKvd:ZCqP3;NSEoX:lazG7b;kCQyJ:ueyPK;oSUNyd:fTfGO;SJsSc:H1GVub;SMDL4c:fTfGO;zOsCQe:Ko78Df;WCEKNd:I46Hvd;LBgRLc:XVMNvd;LsNahb:ucGLNb;UyG7Kb:wQd0G;TxfV6d:YORN0b;GleZL:J1A7Od;qaS3gd:yiLg6e;aAJE9c:WHW6Ef;BgS6mb:fidj5d;z97YGf:oug9te;CxXAWb:YyRLvc;Pguwyb:Xm4ZCd;VN6jIc:ddQyuf;SLtqO:Kh1xYe;VxQ32b:k0XsBb;DULqB:RKfG5c;cFTWae:gT8qnd;gaub4:TN6bMe;hjRo6e:F62sG;whEZac:F4AmNb;qddgKe:x4FYXe;eBAeSb:Ck63tb;vfVwPd:OXTqFb;w9w86d:dt4g2b;lkq0A:Z0MWEf;KQzWid:mB4wNe;pNsl2d:j9Yuyc;eHDfl:ofjVkb;Nyt6ic:jn2sGd;SNUn3:x8cHvb;LEikZe:byfTOb,lsjVmc;io8t5d:sgY6Zb;j7137d:KG2eXe;Oj465e:KG2eXe;sP4Vbe:VwDzFe;kMFpHd:blwjVc;nAFL3:s39S4;iFQyKf:QIhFr/m=AtSb,B3sAYe,BVxbI,CgfbTd,DhPYme,EfJGEe,EkevXb,FIh4Fe,GU4Gab,GqeWuf,Hjq1Uc,KwKaLe,Mv8snb,OESk0e,OPuKec,QPRQHf,UFZhBc,Wq6lxf,ZchH0c,aa,async,cSX9Xe,dvl,foot,hmSYyb,kyn,lazG7b,mI3LFb,mu,nXizP,oSkgIf,pHXghd,sf,tIj4fb,vhJCnf,x02uwc,x1R84e,zHYHGb?xjs=s1, line 1087: Error: He
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.a_EGDHmsfr0.O/ck=xjs.s.preap7EHqIw.L.F4.O/am=AkAVAF4AAAAAMAMUAAAAAAAAAAAGAAJPGQMAEAgR5CQAAAAACBIAAAAGACEABwJCAAAAAB8JFwAAfwAAA0u4AAAAAAAAAAACtgTBwA0SAQEAAAAAAAAACKuJCg/d=1/exm=cdos,cr,csi,d,hsm,jsa,sb/excm=FuQWyc,agCOD,zs9f9d/ed=1/dg=2/rs=ACT90oE2KXr0bvRu2gna2lpEcaokXCIj0g/ee=zhDmcb:EEDORb;rXjWyb:VWuaCc;uY49fb:COQbmf;EVNhjf:pw70Gc;g8nkx:U4MzKc;wQlYve:aLUfP;kbAm9d:MkHyGd;F9mqte:UoRcbe;sTsDMc:kHVSUb;oUlnpc:RagDlc;dtl0hd:lLQWFe;yGxLoc:FmAr0c;dIoSBb:ZgGg9b;pXdRYb:JKoKVe;wR5FRb:TtcOte;KpRAue:Tia57b;aZ61od:arTwJ;JXS8fb:Qj0suc;rQSrae:C6D5Fc;qavrXe:zQzcXe;UDrY1c:eps46d;nKl0s:xxrckd;w3bZCb:ZPGaIb;VGRfx:VFqbr;imqimf:jKGL2e;Np8Qkd:Dpx6qc;BjwMce:cXX2Wb;oGtAuc:sOXFj;NPKaK:PVlQOd;zxnPse:GkRiKb;daB6be:lMxGPd;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;jVtPve:wQ95P;R4IIIb:QWfeKf;BMxAGc:E5bFse;WDGyFe:jcVOxd;xbe2wc:wbTLEd;DpcR3d:zL72xf;tosKvd:ZCqP3;NSEoX:lazG7b;kCQyJ:ueyPK;oSUNyd:fTfGO;SJsSc:H1GVub;SMDL4c:fTfGO;zOsCQe:Ko78Df;WCEKNd:I46Hvd;LBgRLc:XVMNvd;LsNahb:ucGLNb;UyG7Kb:wQd0G;TxfV6d:YORN0b;GleZL:J1A7Od;qaS3gd:yiLg6e;aAJE9c:WHW6Ef;BgS6mb:fidj5d;z97YGf:oug9te;CxXAWb:YyRLvc;Pguwyb:Xm4ZCd;VN6jIc:ddQyuf;SLtqO:Kh1xYe;VxQ32b:k0XsBb;DULqB:RKfG5c;cFTWae:gT8qnd;gaub4:TN6bMe;hjRo6e:F62sG;whEZac:F4AmNb;qddgKe:x4FYXe;eBAeSb:Ck63tb;vfVwPd:OXTqFb;w9w86d:dt4g2b;lkq0A:Z0MWEf;KQzWid:mB4wNe;pNsl2d:j9Yuyc;eHDfl:ofjVkb;Nyt6ic:jn2sGd;SNUn3:x8cHvb;LEikZe:byfTOb,lsjVmc;io8t5d:sgY6Zb;j7137d:KG2eXe;Oj465e:KG2eXe;sP4Vbe:VwDzFe;kMFpHd:blwjVc;nAFL3:s39S4;iFQyKf:QIhFr/m=Aa4VI,AtSb,B3sAYe,BVxbI,CgfbTd,DhPYme,EfJGEe,EkevXb,FIh4Fe,GU4Gab,GqeWuf,Hjq1Uc,KwKaLe,L1AAkb,Mv8snb,OESk0e,OPuKec,QPRQHf,UFZhBc,Wq6lxf,ZchH0c,aa,ao396e,async,cSX9Xe,dvl,foot,hmSYyb,k6GQw,kyn,lazG7b,mI3LFb,mu,nXizP,oSkgIf,pFsdhd,pHXghd,sf,tIj4fb,vhJCnf,x02uwc,x1R84e,zHYHGb?xjs=s1, line 1095: Error: He
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.a_EGDHmsfr0.O/ck=xjs.s.preap7EHqIw.L.F4.O/am=AkAVAF4AAAAAMAMUAAAAAAAAAAAGAAJPGQMAEAgR5CQAAAAACBIAAAAGACEABwJCAAAAAB8JFwAAfwAAA0u4AAAAAAAAAAACtgTBwA0SAQEAAAAAAAAACKuJCg/d=1/exm=cdos,cr,csi,d,hsm,jsa,sb/excm=FuQWyc,agCOD,zs9f9d/ed=1/dg=2/rs=ACT90oE2KXr0bvRu2gna2lpEcaokXCIj0g/ee=zhDmcb:EEDORb;rXjWyb:VWuaCc;uY49fb:COQbmf;EVNhjf:pw70Gc;g8nkx:U4MzKc;wQlYve:aLUfP;kbAm9d:MkHyGd;F9mqte:UoRcbe;sTsDMc:kHVSUb;oUlnpc:RagDlc;dtl0hd:lLQWFe;yGxLoc:FmAr0c;dIoSBb:ZgGg9b;pXdRYb:JKoKVe;wR5FRb:TtcOte;KpRAue:Tia57b;aZ61od:arTwJ;JXS8fb:Qj0suc;rQSrae:C6D5Fc;qavrXe:zQzcXe;UDrY1c:eps46d;nKl0s:xxrckd;w3bZCb:ZPGaIb;VGRfx:VFqbr;imqimf:jKGL2e;Np8Qkd:Dpx6qc;BjwMce:cXX2Wb;oGtAuc:sOXFj;NPKaK:PVlQOd;zxnPse:GkRiKb;daB6be:lMxGPd;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;jVtPve:wQ95P;R4IIIb:QWfeKf;BMxAGc:E5bFse;WDGyFe:jcVOxd;xbe2wc:wbTLEd;DpcR3d:zL72xf;tosKvd:ZCqP3;NSEoX:lazG7b;kCQyJ:ueyPK;oSUNyd:fTfGO;SJsSc:H1GVub;SMDL4c:fTfGO;zOsCQe:Ko78Df;WCEKNd:I46Hvd;LBgRLc:XVMNvd;LsNahb:ucGLNb;UyG7Kb:wQd0G;TxfV6d:YORN0b;GleZL:J1A7Od;qaS3gd:yiLg6e;aAJE9c:WHW6Ef;BgS6mb:fidj5d;z97YGf:oug9te;CxXAWb:YyRLvc;Pguwyb:Xm4ZCd;VN6jIc:ddQyuf;SLtqO:Kh1xYe;VxQ32b:k0XsBb;DULqB:RKfG5c;cFTWae:gT8qnd;gaub4:TN6bMe;hjRo6e:F62sG;whEZac:F4AmNb;qddgKe:x4FYXe;eBAeSb:Ck63tb;vfVwPd:OXTqFb;w9w86d:dt4g2b;lkq0A:Z0MWEf;KQzWid:mB4wNe;pNsl2d:j9Yuyc;eHDfl:ofjVkb;Nyt6ic:jn2sGd;SNUn3:x8cHvb;LEikZe:byfTOb,lsjVmc;io8t5d:sgY6Zb;j7137d:KG2eXe;Oj465e:KG2eXe;sP4Vbe:VwDzFe;kMFpHd:blwjVc;nAFL3:s39S4;iFQyKf:QIhFr/m=Aa4VI,AtSb,B3sAYe,BVxbI,CgfbTd,DhPYme,EfJGEe,EkevXb,FIh4Fe,GU4Gab,GqeWuf,Hjq1Uc,KwKaLe,L1AAkb,Mv8snb,OESk0e,OPuKec,QPRQHf,UFZhBc,Wq6lxf,ZchH0c,aa,ao396e,async,cSX9Xe,dvl,foot,hmSYyb,k6GQw,kyn,lazG7b,mI3LFb,mu,nXizP,oSkgIf,pFsdhd,pHXghd,sf,tIj4fb,vhJCnf,x02uwc,x1R84e,zHYHGb?xjs=s1, line 1095: Error: He
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659057626436	Marionette	INFO	Stopped listening on port 63483
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+Exiting due to channel error.
+1659057627305	geckodriver	INFO	Listening on 127.0.0.1:63681
+1659057627841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "63682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBaPNPj"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659057628832	Marionette	INFO	Marionette enabled
+1659057628839	Marionette	INFO	Listening on port 63690
+WebDriver BiDi listening on ws://localhost:63682
+Read port: 63690
+1659057630364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBaPNPj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:63682/devtools/browser/03128691-406d-4b3f-b42b-b9f0f197129e
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659057662139	Marionette	INFO	Stopped listening on port 63690
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659057662335	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+1659057666796	geckodriver	INFO	Listening on 127.0.0.1:63813
+1659057667323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "63814" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIZEs0Y"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659057668218	Marionette	INFO	Marionette enabled
+1659057668225	Marionette	INFO	Listening on port 63819
+WebDriver BiDi listening on ws://localhost:63814
+Read port: 63819
+1659057668770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIZEs0Y/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:63814/devtools/browser/7a510f33-c0d6-417a-bccb-df81e44b38dd
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659057734795	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057734796	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057734797	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057734798	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057734798	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057734799	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659057772045	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057772046	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057772047	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057772047	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057772048	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057772049	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659057772050	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659057867667	Marionette	INFO	Stopped listening on port 63819
+1659057878904	geckodriver	INFO	Listening on 127.0.0.1:64186
+1659057879421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "64187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilew19yyr"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659057880336	Marionette	INFO	Marionette enabled
+1659057880342	Marionette	INFO	Listening on port 64191
+WebDriver BiDi listening on ws://localhost:64187
+Read port: 64191
+1659057880966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew19yyr/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:64187/devtools/browser/2ba6cf6b-4bd9-4db7-9786-8ede90e92e78
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1659057935096	Marionette	INFO	Stopped listening on port 64191
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659057936937	geckodriver	INFO	Listening on 127.0.0.1:64334
+1659057937474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "64335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUii36M"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659057938387	Marionette	INFO	Marionette enabled
+1659057938394	Marionette	INFO	Listening on port 64345
+WebDriver BiDi listening on ws://localhost:64335
+Read port: 64345
+1659057938955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUii36M/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:64335/devtools/browser/37139e63-c0be-43cc-a010-64ce6ef100bc
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659057977563	Marionette	INFO	Stopped listening on port 64345
+1659057986758	geckodriver	INFO	Listening on 127.0.0.1:64485
+1659057986802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "64486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilet0aExI"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659057988058	Marionette	INFO	Marionette enabled
+1659057988065	Marionette	INFO	Listening on port 64493
+WebDriver BiDi listening on ws://localhost:64486
+Read port: 64493
+1659057988609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilet0aExI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:64486/devtools/browser/bfe35daa-93b0-446a-b8fa-9869ddc2b982
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659058090987	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058090988	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058090989	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058090990	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058090991	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058090992	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659058107620	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058107621	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058107621	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058107622	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058107622	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058107623	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.a_EGDHmsfr0.O/ck=xjs.s.preap7EHqIw.L.F4.O/am=AkAVAF4AAAAAMAMUAAAAAAAAAAAGAAJPGQMAEAgR5CQAAAAACBIAAAAGACEABwJCAAAAAB8JFwAAfwAAA0u4AAAAAAAAAAACtgTBwA0SAQEAAAAAAAAACKuJCg/d=1/exm=cdos,cr,csi,d,hsm,jsa,sb/excm=agCOD,zs9f9d/ed=1/dg=2/rs=ACT90oE2KXr0bvRu2gna2lpEcaokXCIj0g/ee=zhDmcb:EEDORb;rXjWyb:VWuaCc;uY49fb:COQbmf;EVNhjf:pw70Gc;g8nkx:U4MzKc;wQlYve:aLUfP;kbAm9d:MkHyGd;F9mqte:UoRcbe;sTsDMc:kHVSUb;oUlnpc:RagDlc;dtl0hd:lLQWFe;yGxLoc:FmAr0c;dIoSBb:ZgGg9b;pXdRYb:JKoKVe;wR5FRb:TtcOte;KpRAue:Tia57b;aZ61od:arTwJ;JXS8fb:Qj0suc;rQSrae:C6D5Fc;qavrXe:zQzcXe;UDrY1c:eps46d;nKl0s:xxrckd;w3bZCb:ZPGaIb;VGRfx:VFqbr;imqimf:jKGL2e;Np8Qkd:Dpx6qc;BjwMce:cXX2Wb;oGtAuc:sOXFj;NPKaK:PVlQOd;zxnPse:GkRiKb;daB6be:lMxGPd;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;jVtPve:wQ95P;R4IIIb:QWfeKf;BMxAGc:E5bFse;WDGyFe:jcVOxd;xbe2wc:wbTLEd;DpcR3d:zL72xf;tosKvd:ZCqP3;NSEoX:lazG7b;kCQyJ:ueyPK;oSUNyd:fTfGO;SJsSc:H1GVub;SMDL4c:fTfGO;zOsCQe:Ko78Df;WCEKNd:I46Hvd;LBgRLc:XVMNvd;LsNahb:ucGLNb;UyG7Kb:wQd0G;TxfV6d:YORN0b;GleZL:J1A7Od;qaS3gd:yiLg6e;aAJE9c:WHW6Ef;BgS6mb:fidj5d;z97YGf:oug9te;CxXAWb:YyRLvc;Pguwyb:Xm4ZCd;VN6jIc:ddQyuf;SLtqO:Kh1xYe;VxQ32b:k0XsBb;DULqB:RKfG5c;cFTWae:gT8qnd;gaub4:TN6bMe;hjRo6e:F62sG;whEZac:F4AmNb;qddgKe:x4FYXe;eBAeSb:Ck63tb;vfVwPd:OXTqFb;w9w86d:dt4g2b;lkq0A:Z0MWEf;KQzWid:mB4wNe;pNsl2d:j9Yuyc;eHDfl:ofjVkb;Nyt6ic:jn2sGd;SNUn3:x8cHvb;LEikZe:byfTOb,lsjVmc;io8t5d:sgY6Zb;j7137d:KG2eXe;Oj465e:KG2eXe;sP4Vbe:VwDzFe;kMFpHd:blwjVc;nAFL3:s39S4;iFQyKf:QIhFr/m=AtSb,B3sAYe,BVxbI,CgfbTd,DhPYme,EfJGEe,EkevXb,FIh4Fe,GU4Gab,GqeWuf,Hjq1Uc,KwKaLe,Mv8snb,OESk0e,OPuKec,QPRQHf,UFZhBc,Wq6lxf,ZchH0c,aa,async,cSX9Xe,dvl,foot,hmSYyb,kyn,lazG7b,mI3LFb,mu,nXizP,oSkgIf,pHXghd,sf,tIj4fb,vhJCnf,x02uwc,x1R84e,zHYHGb?xjs=s1, line 1087: Error: He
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659058149418	Marionette	INFO	Stopped listening on port 64493
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1659058149596	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:577
+1659058159935	geckodriver	INFO	Listening on 127.0.0.1:64836
+1659058160465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "64837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYUYBvG"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659058164602	Marionette	INFO	Marionette enabled
+1659058164609	Marionette	INFO	Listening on port 64843
+WebDriver BiDi listening on ws://localhost:64837
+Read port: 64843
+1659058165723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYUYBvG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:64837/devtools/browser/d9e72045-404d-4784-a4c3-ea8f6175bd05
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659058212453	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058212453	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058212454	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058212456	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.a_EGDHmsfr0.O/am=AkAVAF4AAAAAMAMUAAAAAAAAAAAGAAJPGQMAEAgR5CQAAAAACBIAAAAGACEABwJCAAAAAB8JFwAAfwAAA0u4AAAAAAAAAAACtgTBwA0SAQEAAAAAAAAACKuJCg/d=1/ed=1/dg=2/rs=ACT90oEl-Sf8IbxtfszeU8uDOsDcXY2clQ/m=sb,cdos,cr,hsm,jsa,d,csi, line 5152: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1659058398903	Marionette	INFO	Stopped listening on port 64843
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659058402114	geckodriver	INFO	Listening on 127.0.0.1:65300
+1659058402656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "65301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiaPZIg"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659058404208	Marionette	INFO	Marionette enabled
+1659058404215	Marionette	INFO	Listening on port 65313
+WebDriver BiDi listening on ws://localhost:65301
+Read port: 65313
+1659058406591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiaPZIg/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:65301/devtools/browser/a65cf84a-8901-4b4f-83ec-eb907e65d26a
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659058427567	Marionette	INFO	Stopped listening on port 65313
+1659058438549	geckodriver	INFO	Listening on 127.0.0.1:65431
+1659058439068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "65432" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevklnnN"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659058440290	Marionette	INFO	Marionette enabled
+1659058440299	Marionette	INFO	Listening on port 65438
+WebDriver BiDi listening on ws://localhost:65432
+Read port: 65438
+1659058440931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevklnnN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:65432/devtools/browser/3b54b69d-a43a-416d-afdd-76c85ab6e6fc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659058576208	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058576209	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058576209	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058576210	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058576210	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058576211	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659058630189	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058630190	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058630194	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058630195	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058630206	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058630207	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659058653028	Marionette	INFO	Stopped listening on port 65438
+1659058663942	geckodriver	INFO	Listening on 127.0.0.1:49455
+1659058664604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49456" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6A1arZ"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659058665964	Marionette	INFO	Marionette enabled
+1659058665973	Marionette	INFO	Listening on port 49462
+WebDriver BiDi listening on ws://localhost:49456
+Read port: 49462
+1659058666602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6A1arZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49456/devtools/browser/ad4c10cc-bca5-482c-aa10-31550f2b40e6
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659058698042	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058698043	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058698044	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058698044	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058698045	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058698045	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659058748033	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058748033	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058748034	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058748035	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659058748035	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659058978592	Marionette	INFO	Stopped listening on port 49462
+Exiting due to channel error.
+1659058980886	geckodriver	INFO	Listening on 127.0.0.1:50369
+1659058981434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "50370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejRsh3I"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659058983199	Marionette	INFO	Marionette enabled
+1659058983207	Marionette	INFO	Listening on port 50374
+WebDriver BiDi listening on ws://localhost:50370
+Read port: 50374
+1659058984251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejRsh3I/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50370/devtools/browser/77fb622b-7ddc-48ea-bf89-d68cb69d341c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659059045681	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059045682	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059045683	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059045683	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059045684	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059045685	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659059063876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059063878	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059063878	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059063879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059063880	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659059082435	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059082436	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059082437	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059082438	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059082438	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059082439	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059082440	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659059296077	Marionette	INFO	Stopped listening on port 50374
+1659059301196	geckodriver	INFO	Listening on 127.0.0.1:50961
+1659059301773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "50962" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLHTtp1"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659059305044	Marionette	INFO	Marionette enabled
+1659059305052	Marionette	INFO	Listening on port 50974
+WebDriver BiDi listening on ws://localhost:50962
+Read port: 50974
+1659059306121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLHTtp1/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50962/devtools/browser/b8b852ce-cd32-4fee-ba1d-68571980ffbe
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://maps.googleapis.com/maps/api/js?callback=__mv3JsLoaded__&client=google-maps-lite&language=pt_BR&libraries=common%2Cgeometry%2Cmap%2Csearch%2Csearch_impl&paint_origin=&region=BR&v=3.49.1, line 414: Error: Could not load "controls".
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659059377694	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059377695	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059377697	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059377698	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059377698	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659059428702	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059428702	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059428703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059428704	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059428705	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059428706	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659059448477	Marionette	INFO	Stopped listening on port 50974
+1659059451775	geckodriver	INFO	Listening on 127.0.0.1:51327
+1659059452293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJG9u2o"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659059453899	Marionette	INFO	Marionette enabled
+1659059453906	Marionette	INFO	Listening on port 51339
+WebDriver BiDi listening on ws://localhost:51328
+Read port: 51339
+1659059454475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJG9u2o/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51328/devtools/browser/17e41b51-cfa2-4b8f-8abd-77fed6fd44a4
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659059518212	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659059593655	Marionette	INFO	Stopped listening on port 51339
+Exiting due to channel error.
+1659059594610	geckodriver	INFO	Listening on 127.0.0.1:51624
+1659059595130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZR0n4v"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659059596448	Marionette	INFO	Marionette enabled
+1659059596461	Marionette	INFO	Listening on port 51631
+WebDriver BiDi listening on ws://localhost:51625
+Read port: 51631
+1659059597104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZR0n4v/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51625/devtools/browser/af9ea9d4-e925-4604-b678-2486a7806862
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659059603339	Marionette	INFO	Stopped listening on port 51631
+1659059603868	geckodriver	INFO	Listening on 127.0.0.1:51662
+1659059603918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNnMBoe"
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+*** You are running in headless mode.
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659059605316	Marionette	INFO	Marionette enabled
+1659059605327	Marionette	INFO	Listening on port 51666
+WebDriver BiDi listening on ws://localhost:51663
+Read port: 51666
+1659059605978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNnMBoe/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51663/devtools/browser/3dcc54b2-5526-46fb-b2a7-adf1eaab324e
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659059651809	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059651809	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059651810	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059651810	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 906: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- (no nested event loop active)
+ExceptionHandler::GenerateDump cloned child 16451
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659059674744	Marionette	INFO	Stopped listening on port 51666
+1659059678810	geckodriver	INFO	Listening on 127.0.0.1:51830
+1659059679310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHJJH5H"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659059681815	Marionette	INFO	Marionette enabled
+1659059681822	Marionette	INFO	Listening on port 51843
+WebDriver BiDi listening on ws://localhost:51831
+Read port: 51843
+1659059682412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHJJH5H/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51831/devtools/browser/05d14e37-d1cd-40a5-acc3-a69de306811f
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659059696643	Marionette	INFO	Stopped listening on port 51843
+1659059699873	geckodriver	INFO	Listening on 127.0.0.1:51919
+1659059700399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2sp8Uo"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659059701339	Marionette	INFO	Marionette enabled
+1659059701346	Marionette	INFO	Listening on port 51925
+WebDriver BiDi listening on ws://localhost:51920
+Read port: 51925
+1659059701964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2sp8Uo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51920/devtools/browser/b4311fcc-2283-4cbc-ac4d-82379f40aa6a
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659059730087	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059730088	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059730089	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059730089	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059730090	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059730090	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059730091	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659059747491	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059747491	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059747492	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059747493	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659059747494	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.a_EGDHmsfr0.O/ck=xjs.s.preap7EHqIw.L.F4.O/am=AkAVAF4AAAAAMAMUAAAAAAAAAAAGAAJPGQMAEAgR5CQAAAAACBIAAAAGACEABwJCAAAAAB8JFwAAfwAAA0u4AAAAAAAAAAACtgTBwA0SAQEAAAAAAAAACKuJCg/d=1/exm=cdos,cr,csi,d,hsm,jsa,sb/excm=agCOD,zs9f9d/ed=1/dg=2/rs=ACT90oE2KXr0bvRu2gna2lpEcaokXCIj0g/ee=zhDmcb:EEDORb;rXjWyb:VWuaCc;uY49fb:COQbmf;EVNhjf:pw70Gc;g8nkx:U4MzKc;wQlYve:aLUfP;kbAm9d:MkHyGd;F9mqte:UoRcbe;sTsDMc:kHVSUb;oUlnpc:RagDlc;dtl0hd:lLQWFe;yGxLoc:FmAr0c;dIoSBb:ZgGg9b;pXdRYb:JKoKVe;wR5FRb:TtcOte;KpRAue:Tia57b;aZ61od:arTwJ;JXS8fb:Qj0suc;rQSrae:C6D5Fc;qavrXe:zQzcXe;UDrY1c:eps46d;nKl0s:xxrckd;w3bZCb:ZPGaIb;VGRfx:VFqbr;imqimf:jKGL2e;Np8Qkd:Dpx6qc;BjwMce:cXX2Wb;oGtAuc:sOXFj;NPKaK:PVlQOd;zxnPse:GkRiKb;daB6be:lMxGPd;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;jVtPve:wQ95P;R4IIIb:QWfeKf;BMxAGc:E5bFse;WDGyFe:jcVOxd;xbe2wc:wbTLEd;DpcR3d:zL72xf;tosKvd:ZCqP3;NSEoX:lazG7b;kCQyJ:ueyPK;oSUNyd:fTfGO;SJsSc:H1GVub;SMDL4c:fTfGO;zOsCQe:Ko78Df;WCEKNd:I46Hvd;LBgRLc:XVMNvd;LsNahb:ucGLNb;UyG7Kb:wQd0G;TxfV6d:YORN0b;GleZL:J1A7Od;qaS3gd:yiLg6e;aAJE9c:WHW6Ef;BgS6mb:fidj5d;z97YGf:oug9te;CxXAWb:YyRLvc;Pguwyb:Xm4ZCd;VN6jIc:ddQyuf;SLtqO:Kh1xYe;VxQ32b:k0XsBb;DULqB:RKfG5c;cFTWae:gT8qnd;gaub4:TN6bMe;hjRo6e:F62sG;whEZac:F4AmNb;qddgKe:x4FYXe;eBAeSb:Ck63tb;vfVwPd:OXTqFb;w9w86d:dt4g2b;lkq0A:Z0MWEf;KQzWid:mB4wNe;pNsl2d:j9Yuyc;eHDfl:ofjVkb;Nyt6ic:jn2sGd;SNUn3:x8cHvb;LEikZe:byfTOb,lsjVmc;io8t5d:sgY6Zb;j7137d:KG2eXe;Oj465e:KG2eXe;sP4Vbe:VwDzFe;kMFpHd:blwjVc;nAFL3:s39S4;iFQyKf:QIhFr/m=AtSb,B3sAYe,BVxbI,CgfbTd,DhPYme,EfJGEe,EkevXb,FIh4Fe,GU4Gab,GqeWuf,Hjq1Uc,KwKaLe,Mv8snb,OESk0e,OPuKec,QPRQHf,UFZhBc,Wq6lxf,ZchH0c,aa,async,cSX9Xe,dvl,foot,hmSYyb,kyn,lazG7b,mI3LFb,mu,nXizP,pHXghd,sf,tIj4fb,vhJCnf,x02uwc,x1R84e,zHYHGb?xjs=s1, line 1087: Error: He
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659059787329	Marionette	INFO	Stopped listening on port 51925
+1659059798116	geckodriver	INFO	Listening on 127.0.0.1:52127
+1659059798680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "52128" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXQfhWO"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659059799763	Marionette	INFO	Marionette enabled
+1659059799771	Marionette	INFO	Listening on port 52136
+WebDriver BiDi listening on ws://localhost:52128
+Read port: 52136
+1659059800720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXQfhWO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52128/devtools/browser/415e97d5-d320-4c02-9e48-d89ef2a6d7b0
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659059870101	Marionette	INFO	Stopped listening on port 52136
+1659059880965	geckodriver	INFO	Listening on 127.0.0.1:52307
+1659059881481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "52308" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqC5337"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659059882417	Marionette	INFO	Marionette enabled
+1659059882424	Marionette	INFO	Listening on port 52315
+WebDriver BiDi listening on ws://localhost:52308
+Read port: 52315
+1659059883416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqC5337/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52308/devtools/browser/c78f260d-5d42-4bbf-99ac-72f65c69a20c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659060032040	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060032041	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060032042	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060032044	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060032044	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060032045	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659060083622	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060083623	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060083625	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060083626	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060083627	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060083628	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659060167252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060167253	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060167254	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060167254	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060167255	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060167255	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659060236462	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060236463	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060236464	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060236465	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659060339112	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060339113	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060339114	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060339115	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659060358171	Marionette	INFO	Stopped listening on port 52315
+1659060364108	geckodriver	INFO	Listening on 127.0.0.1:53186
+1659060364643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel30341"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659060366144	Marionette	INFO	Marionette enabled
+1659060366155	Marionette	INFO	Listening on port 53191
+WebDriver BiDi listening on ws://localhost:53187
+Read port: 53191
+1659060366681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel30341/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53187/devtools/browser/4170cefb-f67b-4a29-acd1-0f5a09290a6c
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659060488168	Marionette	INFO	Stopped listening on port 53191
+1659060499652	geckodriver	INFO	Listening on 127.0.0.1:53452
+1659060500173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiC5bfS"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659060501108	Marionette	INFO	Marionette enabled
+1659060501114	Marionette	INFO	Listening on port 53463
+WebDriver BiDi listening on ws://localhost:53453
+Read port: 53463
+1659060501733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiC5bfS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53453/devtools/browser/85ed4c8e-d5a2-4925-8266-dc0aee924a27
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659060648410	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060648410	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060648411	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060648411	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060648412	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060648413	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659060648414	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1659060769085	geckodriver	INFO	Listening on 127.0.0.1:53944
+1659060769608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSlZsu6"
+*** You are running in headless mode.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659060771550	Marionette	INFO	Marionette enabled
+1659060771571	Marionette	INFO	Listening on port 53954
+WebDriver BiDi listening on ws://localhost:53945
+Read port: 53954
+1659060772191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSlZsu6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53945/devtools/browser/0ed5f14b-47d8-4992-859e-ec091923b62d
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659060783798	Marionette	INFO	Stopped listening on port 53954
+1659060785890	geckodriver	INFO	Listening on 127.0.0.1:53999
+1659060785948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "54000" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYrV8mI"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659060788631	Marionette	INFO	Marionette enabled
+1659060788646	Marionette	INFO	Listening on port 54007
+WebDriver BiDi listening on ws://localhost:54000
+Read port: 54007
+1659060789390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYrV8mI/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54000/devtools/browser/6084119f-4137-451f-93e3-15fdae077ccf
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
