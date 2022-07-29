@@ -1,0 +1,91 @@
+1659053229285	geckodriver	INFO	Listening on 127.0.0.1:53066
+1659053229907	mozrunner::runner	INFO	Running command: "./firefox/firefox" "--marionette" "--headless" "--remote-debugging-port" "53067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecIWbLL"
+XPCOMGlueLoad error for file /mnt/c/Users/henri/OneDrive/Desktop/Projetos/google_scraper/firefox/libxul.so:
+libdbus-glib-1.so.2: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1659054127447	geckodriver	INFO	Listening on 127.0.0.1:54507
+1659054454211	geckodriver	INFO	Listening on 127.0.0.1:55047
+1659054454629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55048" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyPw63Z"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659054462558	Marionette	INFO	Marionette enabled
+1659054462584	Marionette	INFO	Listening on port 55065
+WebDriver BiDi listening on ws://localhost:55048
+Read port: 55065
+1659054463111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyPw63Z/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55048/devtools/browser/e4e3b969-fad3-440b-8076-ff8636636bde
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659054478963	Marionette	INFO	Stopped listening on port 55065
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"TelemetryController: shutting down","state":{"initialized":true,"initStarted":true,"haveDelayedInitTask":true,"shutdownBarrier":"Not started","connectionsBarrier":"Not started","sendModule":{"sendingEnabled":true,"pendingPingRequestCount":0,"pendingPingActivityCount":0,"unpersistedPingCount":0,"persistedPingCount":0,"schedulerState":{"shutdown":false,"hasSendTask":false,"sendsFailed":false,"sendTaskState":"bail out - no pings to send","backoffDelay":60000}},"haveDelayedNewProfileTask":false},"filename":"resource://gre/modules/TelemetryControllerParent.jsm","lineNumber":915,"stack":["resource://gre/modules/TelemetryControllerParent.jsm:setupTelemetry:915","resource://gre/modules/TelemetryControllerParent.jsm:observe:1049","resource://gre/modules/TelemetryControllerParent.jsm:observe:151","resource://gre/modules/TelemetryStartup.jsm:TelemetryStartup.prototype.observe:33"]}] Barrier: profile-before-change-telemetry
+1659054897834	geckodriver	INFO	Listening on 127.0.0.1:55789
+1659054898367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ1vz5R"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659054900129	Marionette	INFO	Marionette enabled
+1659054900136	Marionette	INFO	Listening on port 55801
+WebDriver BiDi listening on ws://localhost:55790
+Read port: 55801
+1659054900802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ1vz5R/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55790/devtools/browser/23f33851-3255-44e0-a8e5-188435cab326
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312008396254,-49.19421861870116],[-25.470013561689463,-49.35386369926756],null,[-25.43157295658017,-49.27404115898436],13]" "with ads but couldn't find the information"
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659055000524	Marionette	INFO	Stopped listening on port 55801
+1659055342342	geckodriver	INFO	Listening on 127.0.0.1:56659
+1659055342858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "56660" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTteF9o"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1659055344594	Marionette	INFO	Marionette enabled
+1659055344603	Marionette	INFO	Listening on port 56669
+WebDriver BiDi listening on ws://localhost:56660
+Read port: 56669
+1659055345196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTteF9o/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56660/devtools/browser/68bd3027-22f5-4288-b626-9d7877403fc1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.a_EGDHmsfr0.O/ck=xjs.s.preap7EHqIw.L.F4.O/am=AkAVAF4AAAAAMAMUAAAAAAAAAAAGBAJPGQMAEAgR5CQAAAAACBIAAAAGACEABwJCAAAAAB8JFwAAfwAAA0u4AAAAAAAAAAACtgTBwA0SAQEAAAAAAAAACKuJCg/d=1/exm=cdos,cr,csi,d,hsm,jsa,sb/excm=agCOD,zs9f9d/ed=1/dg=2/rs=ACT90oHgqm0A3_PBp8NCQhwfCI9xw7pH7w/ee=zhDmcb:EEDORb;rXjWyb:VWuaCc;uY49fb:COQbmf;EVNhjf:pw70Gc;g8nkx:U4MzKc;wQlYve:aLUfP;kbAm9d:MkHyGd;F9mqte:UoRcbe;sTsDMc:kHVSUb;oUlnpc:RagDlc;dtl0hd:lLQWFe;yGxLoc:FmAr0c;dIoSBb:ZgGg9b;pXdRYb:JKoKVe;wR5FRb:TtcOte;KpRAue:Tia57b;aZ61od:arTwJ;JXS8fb:Qj0suc;rQSrae:C6D5Fc;qavrXe:zQzcXe;UDrY1c:eps46d;nKl0s:xxrckd;w3bZCb:ZPGaIb;VGRfx:VFqbr;imqimf:jKGL2e;Np8Qkd:Dpx6qc;BjwMce:cXX2Wb;oGtAuc:sOXFj;NPKaK:PVlQOd;zxnPse:GkRiKb;daB6be:lMxGPd;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;jVtPve:wQ95P;R4IIIb:QWfeKf;BMxAGc:E5bFse;WDGyFe:jcVOxd;xbe2wc:wbTLEd;DpcR3d:zL72xf;tosKvd:ZCqP3;NSEoX:lazG7b;kCQyJ:ueyPK;oSUNyd:fTfGO;SJsSc:H1GVub;SMDL4c:fTfGO;zOsCQe:Ko78Df;WCEKNd:I46Hvd;LBgRLc:XVMNvd;LsNahb:ucGLNb;UyG7Kb:wQd0G;TxfV6d:YORN0b;GleZL:J1A7Od;qaS3gd:yiLg6e;aAJE9c:WHW6Ef;BgS6mb:fidj5d;z97YGf:oug9te;CxXAWb:YyRLvc;Pguwyb:Xm4ZCd;VN6jIc:ddQyuf;SLtqO:Kh1xYe;VxQ32b:k0XsBb;DULqB:RKfG5c;cFTWae:gT8qnd;gaub4:TN6bMe;hjRo6e:F62sG;whEZac:F4AmNb;qddgKe:x4FYXe;eBAeSb:Ck63tb;vfVwPd:OXTqFb;w9w86d:dt4g2b;lkq0A:Z0MWEf;KQzWid:mB4wNe;pNsl2d:j9Yuyc;eHDfl:ofjVkb;Nyt6ic:jn2sGd;SNUn3:x8cHvb;LEikZe:byfTOb,lsjVmc;io8t5d:sgY6Zb;j7137d:KG2eXe;Oj465e:KG2eXe;sP4Vbe:VwDzFe;kMFpHd:blwjVc;nAFL3:s39S4;iFQyKf:QIhFr/m=AtSb,B3sAYe,BVxbI,CgfbTd,DhPYme,EfJGEe,EkevXb,FIh4Fe,GU4Gab,GqeWuf,Hjq1Uc,KwKaLe,Mv8snb,OESk0e,OPuKec,QPRQHf,UFZhBc,Wq6lxf,ZchH0c,aa,async,cSX9Xe,dvl,foot,hmSYyb,kyn,lazG7b,mI3LFb,mu,nXizP,oSkgIf,pHXghd,sf,tIj4fb,vhJCnf,x02uwc,x1R84e,zHYHGb?xjs=s1, line 1087: Error: He
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.a_EGDHmsfr0.O/ck=xjs.s.preap7EHqIw.L.F4.O/am=AkAVAF4AAAAAMAMUAAAAAAAAAAAGBAJPGQMAEAgR5CQAAAAACBIAAAAGACEABwJCAAAAAB8JFwAAfwAAA0u4AAAAAAAAAAACtgTBwA0SAQEAAAAAAAAACKuJCg/d=1/exm=cdos,cr,csi,d,hsm,jsa,sb/excm=agCOD,zs9f9d/ed=1/dg=2/rs=ACT90oHgqm0A3_PBp8NCQhwfCI9xw7pH7w/ee=zhDmcb:EEDORb;rXjWyb:VWuaCc;uY49fb:COQbmf;EVNhjf:pw70Gc;g8nkx:U4MzKc;wQlYve:aLUfP;kbAm9d:MkHyGd;F9mqte:UoRcbe;sTsDMc:kHVSUb;oUlnpc:RagDlc;dtl0hd:lLQWFe;yGxLoc:FmAr0c;dIoSBb:ZgGg9b;pXdRYb:JKoKVe;wR5FRb:TtcOte;KpRAue:Tia57b;aZ61od:arTwJ;JXS8fb:Qj0suc;rQSrae:C6D5Fc;qavrXe:zQzcXe;UDrY1c:eps46d;nKl0s:xxrckd;w3bZCb:ZPGaIb;VGRfx:VFqbr;imqimf:jKGL2e;Np8Qkd:Dpx6qc;BjwMce:cXX2Wb;oGtAuc:sOXFj;NPKaK:PVlQOd;zxnPse:GkRiKb;daB6be:lMxGPd;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;jVtPve:wQ95P;R4IIIb:QWfeKf;BMxAGc:E5bFse;WDGyFe:jcVOxd;xbe2wc:wbTLEd;DpcR3d:zL72xf;tosKvd:ZCqP3;NSEoX:lazG7b;kCQyJ:ueyPK;oSUNyd:fTfGO;SJsSc:H1GVub;SMDL4c:fTfGO;zOsCQe:Ko78Df;WCEKNd:I46Hvd;LBgRLc:XVMNvd;LsNahb:ucGLNb;UyG7Kb:wQd0G;TxfV6d:YORN0b;GleZL:J1A7Od;qaS3gd:yiLg6e;aAJE9c:WHW6Ef;BgS6mb:fidj5d;z97YGf:oug9te;CxXAWb:YyRLvc;Pguwyb:Xm4ZCd;VN6jIc:ddQyuf;SLtqO:Kh1xYe;VxQ32b:k0XsBb;DULqB:RKfG5c;cFTWae:gT8qnd;gaub4:TN6bMe;hjRo6e:F62sG;whEZac:F4AmNb;qddgKe:x4FYXe;eBAeSb:Ck63tb;vfVwPd:OXTqFb;w9w86d:dt4g2b;lkq0A:Z0MWEf;KQzWid:mB4wNe;pNsl2d:j9Yuyc;eHDfl:ofjVkb;Nyt6ic:jn2sGd;SNUn3:x8cHvb;LEikZe:byfTOb,lsjVmc;io8t5d:sgY6Zb;j7137d:KG2eXe;Oj465e:KG2eXe;sP4Vbe:VwDzFe;kMFpHd:blwjVc;nAFL3:s39S4;iFQyKf:QIhFr/m=Aa4VI,AtSb,B3sAYe,BVxbI,CgfbTd,DhPYme,EfJGEe,EkevXb,FIh4Fe,GU4Gab,GqeWuf,Hjq1Uc,KwKaLe,L1AAkb,Mv8snb,OESk0e,OPuKec,QPRQHf,UFZhBc,Wq6lxf,ZchH0c,aa,ao396e,async,cSX9Xe,dvl,foot,hmSYyb,k6GQw,kyn,lazG7b,mI3LFb,mu,nXizP,oSkgIf,pFsdhd,pHXghd,sf,tIj4fb,vhJCnf,x02uwc,x1R84e,zHYHGb?xjs=s1, line 1095: Error: He
+JavaScript error: https://www.google.com/xjs/_/js/k=xjs.s.pt_BR.a_EGDHmsfr0.O/ck=xjs.s.preap7EHqIw.L.F4.O/am=AkAVAF4AAAAAMAMUAAAAAAAAAAAGBAJPGQMAEAgR5CQAAAAACBIAAAAGACEABwJCAAAAAB8JFwAAfwAAA0u4AAAAAAAAAAACtgTBwA0SAQEAAAAAAAAACKuJCg/d=1/exm=cdos,cr,csi,d,hsm,jsa,sb/excm=agCOD,zs9f9d/ed=1/dg=2/rs=ACT90oHgqm0A3_PBp8NCQhwfCI9xw7pH7w/ee=zhDmcb:EEDORb;rXjWyb:VWuaCc;uY49fb:COQbmf;EVNhjf:pw70Gc;g8nkx:U4MzKc;wQlYve:aLUfP;kbAm9d:MkHyGd;F9mqte:UoRcbe;sTsDMc:kHVSUb;oUlnpc:RagDlc;dtl0hd:lLQWFe;yGxLoc:FmAr0c;dIoSBb:ZgGg9b;pXdRYb:JKoKVe;wR5FRb:TtcOte;KpRAue:Tia57b;aZ61od:arTwJ;JXS8fb:Qj0suc;rQSrae:C6D5Fc;qavrXe:zQzcXe;UDrY1c:eps46d;nKl0s:xxrckd;w3bZCb:ZPGaIb;VGRfx:VFqbr;imqimf:jKGL2e;Np8Qkd:Dpx6qc;BjwMce:cXX2Wb;oGtAuc:sOXFj;NPKaK:PVlQOd;zxnPse:GkRiKb;daB6be:lMxGPd;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;jVtPve:wQ95P;R4IIIb:QWfeKf;BMxAGc:E5bFse;WDGyFe:jcVOxd;xbe2wc:wbTLEd;DpcR3d:zL72xf;tosKvd:ZCqP3;NSEoX:lazG7b;kCQyJ:ueyPK;oSUNyd:fTfGO;SJsSc:H1GVub;SMDL4c:fTfGO;zOsCQe:Ko78Df;WCEKNd:I46Hvd;LBgRLc:XVMNvd;LsNahb:ucGLNb;UyG7Kb:wQd0G;TxfV6d:YORN0b;GleZL:J1A7Od;qaS3gd:yiLg6e;aAJE9c:WHW6Ef;BgS6mb:fidj5d;z97YGf:oug9te;CxXAWb:YyRLvc;Pguwyb:Xm4ZCd;VN6jIc:ddQyuf;SLtqO:Kh1xYe;VxQ32b:k0XsBb;DULqB:RKfG5c;cFTWae:gT8qnd;gaub4:TN6bMe;hjRo6e:F62sG;whEZac:F4AmNb;qddgKe:x4FYXe;eBAeSb:Ck63tb;vfVwPd:OXTqFb;w9w86d:dt4g2b;lkq0A:Z0MWEf;KQzWid:mB4wNe;pNsl2d:j9Yuyc;eHDfl:ofjVkb;Nyt6ic:jn2sGd;SNUn3:x8cHvb;LEikZe:byfTOb,lsjVmc;io8t5d:sgY6Zb;j7137d:KG2eXe;Oj465e:KG2eXe;sP4Vbe:VwDzFe;kMFpHd:blwjVc;nAFL3:s39S4;iFQyKf:QIhFr/m=Aa4VI,AtSb,B3sAYe,BVxbI,CgfbTd,DhPYme,EfJGEe,EkevXb,FIh4Fe,GU4Gab,GqeWuf,Hjq1Uc,KwKaLe,L1AAkb,Mv8snb,OESk0e,OPuKec,QPRQHf,UFZhBc,Wq6lxf,ZchH0c,aa,ao396e,async,cSX9Xe,dvl,foot,hmSYyb,k6GQw,kyn,lazG7b,mI3LFb,mu,nXizP,oSkgIf,pFsdhd,pHXghd,sf,tIj4fb,vhJCnf,x02uwc,x1R84e,zHYHGb?xjs=s1, line 1095: Error: He
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
