@@ -16,7 +16,6 @@ import time
 options = Options()
 options.add_argument("--headless")
 options.binary_location = ()
-driver = webdriver.Firefox(executable_path="./geckodriver", options=options)
 
 
 
@@ -157,9 +156,11 @@ def main():
 print('rodando')
 while True:
   try:
+    driver = webdriver.Firefox(executable_path="./geckodriver", options=options)
     main()
   except:
     print('exception')
+    driver.quit()
 
                 
                 
