@@ -159,7 +159,7 @@ while True:
   try:
     main()
   except:
-    console.log(exception)
+    print('exception')
 
                 
                 
