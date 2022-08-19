@@ -16,7 +16,7 @@ import time
 options = Options()
 options.add_argument("--headless")
 options.binary_location = ()
-
+driver = webdriver.Firefox(executable_path="./geckodriver")
 
 
 
@@ -41,6 +41,7 @@ map_xpath = "/html/body[@id='gsr']/div[@id='main']/div[@id='cnt']/div[@id='rcnt'
 
 
 def getFirstPage(link):
+    print('rodando getFirstPage')
     
     try:
         driver.get(link)
@@ -51,6 +52,8 @@ def getFirstPage(link):
     
     
 def sendSearch(ramo,cidade):
+
+    print('rodando sendSearch')
     search_bar = driver.find_element(By.NAME,"q")
     search_btn = driver.find_element(By.NAME,"btnG")
     search_string = f"{ramo} em {cidade} telefone"
@@ -66,7 +69,7 @@ def sendSearch(ramo,cidade):
     
     
 def isNext():
-    
+    print('rodando isNext')
     current_source = driver.page_source
     soup = BeautifulSoup(current_source, 'lxml')
     spans = soup.find_all('span')
@@ -76,6 +79,7 @@ def isNext():
     return False
 
 def getNextPage():
+    print('rodando getNextPage')
     first_element = driver.find_element(By.CLASS_NAME,'rllt__details')
     first_element.click()
     close_btn = driver.find_element(By.XPATH,close_xpath)
@@ -113,7 +117,7 @@ def process_resto(text):
     return current_resto
     
 def getBlocks():
-    
+    print('rodando getBlocks')
 
     current_source = driver.page_source
     soup = BeautifulSoup(current_source, 'lxml')
@@ -128,6 +132,7 @@ def getBlocks():
                 phone = process_phone(div_text)
                 end = process_resto(div_text)
                 return_object = {'name':name,'phone':phone,'end':end,'stage':'novo'}
+                ##print(return_object)
                 tryInsert(return_object)
                 
 ##--------------------------------- MAIN
@@ -146,21 +151,22 @@ def main():
             except:
                 break
 
-
+main()
 ## -----------------------------------------------------
 
 
 
 
 #roda infinitamente
-print('rodando')
-while True:
-  try:
-    driver = webdriver.Firefox(executable_path="./geckodriver", options=options)
-    main()
-  except:
-    print('exception')
-    driver.quit()
+# print('rodando')
+# while True:
+#   try:
+#     print('subindo webdriver...')
+#     driver = webdriver.Firefox(executable_path="./geckodriver")##options=options
+#     main()
+#   except Exception as e:
+#     print(e)
+#     ##driver.quit()
 
                 
                 

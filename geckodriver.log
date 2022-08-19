@@ -1397,3 +1397,301 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1660172186728	geckodriver	INFO	Listening on 127.0.0.1:51523
+1660172196966	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "46225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem7Z9cF"
+*** You are running in headless mode.
+Gtk-Message: 19:56:40.718: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:56:40.721: Failed to load module "canberra-gtk-module"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1660172353420	geckodriver	INFO	Listening on 127.0.0.1:42293
+1660172355476	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejOycLI"
+*** You are running in headless mode.
+Gtk-Message: 19:59:15.917: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:59:15.917: Failed to load module "canberra-gtk-module"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1660172430652	geckodriver	INFO	Listening on 127.0.0.1:41195
+1660172431598	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "54803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenKiEU6"
+Gtk-Message: 20:00:31.912: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:00:31.913: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660172493263	geckodriver	INFO	Listening on 127.0.0.1:53927
+1660172493831	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "58621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3Xqk9N"
+Gtk-Message: 20:01:34.110: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:01:34.111: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660173488216	geckodriver	INFO	Listening on 127.0.0.1:48479
+1660173489132	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "43477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRcXXIH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660173490430	Marionette	INFO	Marionette enabled
+1660173490437	Marionette	INFO	Listening on port 37337
+WebDriver BiDi listening on ws://localhost:43477
+Read port: 37337
+1660173491445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRcXXIH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43477/devtools/browser/01bcd275-4370-471b-8c76-2cb586037bef
+1660173502822	Marionette	INFO	Stopped listening on port 37337
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 184: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+1660173570488	geckodriver	INFO	Listening on 127.0.0.1:60541
+1660173571037	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "34825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGic5V8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660173573144	Marionette	INFO	Marionette enabled
+1660173573150	Marionette	INFO	Listening on port 40847
+WebDriver BiDi listening on ws://localhost:34825
+Read port: 40847
+1660173574025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGic5V8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34825/devtools/browser/03f0be3c-3c63-47d2-b4cc-014ae501b98e
+1660173582883	Marionette	INFO	Stopped listening on port 40847
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+1660173730701	geckodriver	INFO	Listening on 127.0.0.1:42699
+1660173731208	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "41925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSphDRg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660173732619	Marionette	INFO	Marionette enabled
+1660173732625	Marionette	INFO	Listening on port 43135
+WebDriver BiDi listening on ws://localhost:41925
+Read port: 43135
+1660173733619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSphDRg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41925/devtools/browser/359328c2-d7fa-4b9d-b763-243faed36396
+1660173743125	Marionette	INFO	Stopped listening on port 43135
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 136: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1660173813993	geckodriver	INFO	Listening on 127.0.0.1:54927
+1660173814501	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "59633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5RUkWd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660173815784	Marionette	INFO	Marionette enabled
+1660173815791	Marionette	INFO	Listening on port 45123
+WebDriver BiDi listening on ws://localhost:59633
+Read port: 45123
+1660173817238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5RUkWd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59633/devtools/browser/374dc573-16b5-45a5-a6af-5c901dac169b
+1660173828688	geckodriver	INFO	Listening on 127.0.0.1:48761
+1660173828700	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "41939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilew2hPyJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660173831314	Marionette	INFO	Marionette enabled
+1660173831322	Marionette	INFO	Listening on port 42951
+WebDriver BiDi listening on ws://localhost:41939
+Read port: 42951
+1660173834746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew2hPyJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41939/devtools/browser/0a1fd997-f898-444d-a3d7-829348eace56
+1660173854039	geckodriver	INFO	Listening on 127.0.0.1:33427
+1660173854552	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "55367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3zUVgY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660174011495	geckodriver	INFO	Listening on 127.0.0.1:58577
+1660174012003	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "32865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerH5edw"
+*** You are running in headless mode.
+1660174012899	Marionette	INFO	Marionette enabled
+1660174012908	Marionette	INFO	Listening on port 42149
+WebDriver BiDi listening on ws://localhost:32865
+Read port: 42149
+1660174014528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerH5edw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32865/devtools/browser/04a79a8b-7ade-4e27-ba90-b74a4e05ab24
+1660174061997	geckodriver	INFO	Listening on 127.0.0.1:33647
+1660174062502	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "57617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileki70JA"
+*** You are running in headless mode.
+1660174063097	Marionette	INFO	Marionette enabled
+1660174063103	Marionette	INFO	Listening on port 39429
+Read port: 39429
+WebDriver BiDi listening on ws://localhost:57617
+1660174065140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileki70JA/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+DevTools listening on ws://localhost:57617/devtools/browser/22572e43-8e07-4b16-8dd6-7fadf0670370
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660174091047	geckodriver	INFO	Listening on 127.0.0.1:54091
+1660174091552	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "52871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4pzUk9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660174093071	Marionette	INFO	Marionette enabled
+1660174093076	Marionette	INFO	Listening on port 44073
+WebDriver BiDi listening on ws://localhost:52871
+Read port: 44073
+1660174094644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4pzUk9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52871/devtools/browser/76eb0543-f2aa-4dd3-8ba3-0c581f03a05a
+1660174313809	geckodriver	INFO	Listening on 127.0.0.1:48211
+1660174314315	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "59589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKCXHSN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660174317968	Marionette	INFO	Marionette enabled
+1660174317974	Marionette	INFO	Listening on port 41169
+WebDriver BiDi listening on ws://localhost:59589
+Read port: 41169
+1660174318922	Marionette	INFO	Stopped listening on port 44073
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660174321140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKCXHSN/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+DevTools listening on ws://localhost:59589/devtools/browser/d5d7e315-b5a3-4b82-a3c5-3996b7451569
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1660174390370	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660174390370	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660174390370	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660174390371	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660174390371	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660174390371	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660175584451	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2120,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2120","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1029","resource:///modules/ContentCrashHandlers.jsm:observe:184"]}] Barrier: quit-application-granted
+1660313423366	Marionette	INFO	Stopped listening on port 42149
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+1660933363732	geckodriver	INFO	Listening on 127.0.0.1:39821
+1660933364077	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "52973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenep3uG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660933374821	Marionette	INFO	Marionette enabled
+1660933374899	Marionette	INFO	Listening on port 46711
+WebDriver BiDi listening on ws://localhost:52973
+Read port: 46711
+Read port: 46711
+Read port: 46711
+1660933378107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+1660933507896	geckodriver	INFO	Listening on 127.0.0.1:49087
+1660933508402	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "44887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7h21aF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660933509625	Marionette	INFO	Marionette enabled
+1660933509629	Marionette	INFO	Listening on port 45421
+WebDriver BiDi listening on ws://localhost:44887
+Read port: 45421
+1660933562313	geckodriver	INFO	Listening on 127.0.0.1:43899
+1660933562819	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "44243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDT2JCs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660933563604	Marionette	INFO	Marionette enabled
+1660933563610	Marionette	INFO	Listening on port 46659
+WebDriver BiDi listening on ws://localhost:44243
+Read port: 46659
+1660933564952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDT2JCs/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+DevTools listening on ws://localhost:44243/devtools/browser/fec71991-dd70-4ebb-8281-a4ba36824b7f
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
