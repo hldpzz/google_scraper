@@ -16,7 +16,7 @@ import time
 options = Options()
 options.add_argument("--headless")
 options.binary_location = ()
-driver = webdriver.Firefox(executable_path="./geckodriver")
+driver = webdriver.Firefox(executable_path="./geckodriver",options=options)
 
 
 
@@ -151,7 +151,16 @@ def main():
             except:
                 break
 
-main()
+
+
+try:
+    main()
+except:
+    try:
+        main()
+    except:
+        main()
+
 ## -----------------------------------------------------
 
 
