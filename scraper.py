@@ -2,8 +2,6 @@ from logging import exception
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 from bs4 import BeautifulSoup
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver import Firefox
 from db_client import *
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -11,16 +9,18 @@ from selenium.webdriver.support.ui import WebDriverWait
 import re
 import time
 
+from selenium.webdriver.firefox.service import Service as FirefoxService
+from webdriver_manager.firefox import GeckoDriverManager
+
+options = webdriver.FirefoxOptions()
+options.add_argument('headless')
+
+service = FirefoxService(executable_path=GeckoDriverManager().install())
+driver = webdriver.Firefox(service=service,options=options)
 
 
-options = Options()
-options.add_argument("--headless")
-options.binary_location = ()
-driver = webdriver.Firefox(executable_path="./geckodriver",options=options)
 
-
-
-
+print('starting scraper ....')
 
 ## REGEXES
 phone_expression = re.compile(r'\([0-9]{2}\)\s9')

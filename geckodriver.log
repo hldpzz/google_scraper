@@ -1744,3 +1744,57 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1664200529664	geckodriver	INFO	Listening on 127.0.0.1:44629
+1664200530273	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJE0Dai"
+*** You are running in headless mode.
+1664203431881	geckodriver	INFO	Listening on 127.0.0.1:50209
+1664203432407	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWLkP4k"
+*** You are running in headless mode.
+1664203436886	Marionette	INFO	Marionette enabled
+1664203436895	Marionette	INFO	Listening on port 36585
+WebDriver BiDi listening on ws://localhost:59551
+Read port: 36585
+Read port: 36585
+1664203438865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664203508679	geckodriver	INFO	Listening on 127.0.0.1:41393
+1664203509189	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "40019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNgrdzw"
+*** You are running in headless mode.
+1664203509565	Marionette	INFO	Marionette enabled
+1664203509568	Marionette	INFO	Listening on port 43275
+WebDriver BiDi listening on ws://localhost:40019
+Read port: 43275
+1664203511079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNgrdzw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40019/devtools/browser/5f462575-e883-4948-8292-3b46e856cfae
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1664216549405	geckodriver	INFO	Listening on 127.0.0.1:59025
+1664216549940	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "56789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevyKG0t"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664216564179	Marionette	INFO	Marionette enabled
+1664216564226	Marionette	INFO	Listening on port 40291
+WebDriver BiDi listening on ws://localhost:56789
+Read port: 40291
+Read port: 40291
+Read port: 40291
+1664216567014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevyKG0t/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56789/devtools/browser/4f934784-0577-4e7d-8ea3-d8d337d1f389
+console.warn: SearchTelemetry: "Expected to report URI for" "https://www.google.com/search?tbs=lf:1,lf_ui:9&tbm=lcl&q=restaurante+curitiba+telefone&rflfq=1&num=10&sa=X&ved=2ahUKEwi9gfeK1o35AhXjrpUCHazaDgcQjGp6BAgJEAE&biw=1350&bih=651&dpr=1#rlfi=hd:;si:;mv:[[-25.39312621771671,-49.19421861870116],[-25.47001969544363,-49.353863699267556]]" "with ads but couldn't find the information"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
