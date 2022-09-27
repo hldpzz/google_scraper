@@ -1798,3 +1798,54 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1664229171207	geckodriver	INFO	Listening on 127.0.0.1:41241
+1664229171746	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "headless" "--remote-debugging-port" "33103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT57bl7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664229187550	Marionette	INFO	Marionette enabled
+1664229187619	Marionette	INFO	Listening on port 37779
+WebDriver BiDi listening on ws://localhost:33103
+Read port: 37779
+Read port: 37779
+1664229189160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT57bl7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33103/devtools/browser/82a9f311-fb7c-46e8-a480-fba472f7b887
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1664229275539	geckodriver	INFO	Listening on 127.0.0.1:36323
+1664229276151	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "headless" "--remote-debugging-port" "34815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSW55rt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664229277444	Marionette	INFO	Marionette enabled
+1664229277448	Marionette	INFO	Listening on port 43593
+Read port: 43593
+WebDriver BiDi listening on ws://localhost:34815
+1664229278872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSW55rt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34815/devtools/browser/ecf10a5d-abcf-4cc9-b9f2-a0680b2e27b3
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1664229326840	geckodriver	INFO	Listening on 127.0.0.1:42287
+1664229327334	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "--marionette" "--remote-debugging-port" "59585" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile95xlSh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664229328382	Marionette	INFO	Marionette enabled
+1664229328386	Marionette	INFO	Listening on port 35501
+WebDriver BiDi listening on ws://localhost:59585
+Read port: 35501
+1664229329476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile95xlSh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59585/devtools/browser/ec8b6759-c514-4386-bb2b-3c8b1deaa60f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

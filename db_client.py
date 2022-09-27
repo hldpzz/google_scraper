@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-client = MongoClient("mongodb://hldpzz:Teste123@localhost:27017/?authMechanism=DEFAULT")
+client = MongoClient("")
 
 db = client.yellowpages
 collection_prospect = db.prospect

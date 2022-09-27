@@ -8,12 +8,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 import re
 import time
-
+import lxml
 from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.firefox import GeckoDriverManager
 
 options = webdriver.FirefoxOptions()
-options.add_argument('headless')
+options.add_argument('--headless')
 
 service = FirefoxService(executable_path=GeckoDriverManager().install())
 driver = webdriver.Firefox(service=service,options=options)
