@@ -131,7 +131,7 @@ def getBlocks():
             if hasPhone(div_text):
                 phone = process_phone(div_text)
                 end = process_resto(div_text)
-                return_object = {'name':name,'phone':phone,'end':end,'stage':'novo'}
+                return_object = {'name':name,'phone':phone,'end':end,'stage':'novo','state':'0'}
                 ##print(return_object)
                 tryInsert(return_object)
                 
